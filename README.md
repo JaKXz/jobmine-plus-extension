@@ -2,14 +2,12 @@
 
 Runs Waterloo's JobMine but enhances the functionality and navigation. 
 
-[**CLICK TO INSTALL**](https://raw.githubusercontent.com/matthewn4444/jobmine-plus-extension/master/jobmine_plus.user.js)
-
-### I AM NOT WORKING ON THIS ANYMORE, EMAIL ME IF YOU WANT TO TAKE OVER THIS PROJECT
+[**CLICK TO INSTALL**](https://raw.githubusercontent.com/JaKXz/jobmine-plus-extension/master/jobmine_plus.user.js)
 
 ## Installation Steps
 
-- [Chrome](https://github.com/matthewn4444/jobmine-plus-extension/wiki/Chrome)
-- [Firefox](https://github.com/matthewn4444/jobmine-plus-extension/wiki/Firefox)
+- [Chrome](https://github.com/JaKXz/jobmine-plus-extension/wiki/Chrome)
+- [Firefox](https://github.com/JaKXz/jobmine-plus-extension/wiki/Firefox)
 
 ## Features
 
@@ -31,8 +29,8 @@ There are interview notifications and much more!
 [Play Store (Ads)](https://play.google.com/store/apps/details?id=com.jobmineplus.mobile)
 
 
-Check out the source code [here](https://github.com/matthewn4444/Jobmine-Plus)
+Check out the source code [here](https://github.com/JaKXz/Jobmine-Plus)
 
 ## Build the script
 
-You can build the script, more information [here](https://github.com/matthewn4444/jobmine-plus-extension/wiki/Build-from-Source)
+You can build the script, more information [here](https://github.com/JaKXz/jobmine-plus-extension/wiki/Build-from-Source)
