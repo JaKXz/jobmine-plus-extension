@@ -20,14 +20,10 @@ Runs Waterloo's JobMine but enhances the functionality and navigation.
 
 ## Mobile (Android)
 
-[![playstore](http://imagizer.imageshack.us/a/img823/6480/googleplayicon.png)](https://play.google.com/store/apps/details?id=com.jobmineplus.mobilepro)
+[![playstore](http://imagizer.imageshack.us/a/img823/6480/googleplayicon.png)](https://play.google.com/store/apps/details?id=com.jobmineplus.mobile)
 
 You can try the Android app which you can read and search job descriptions and view offline.
 There are interview notifications and much more!
-
-
-[Play Store (Ads)](https://play.google.com/store/apps/details?id=com.jobmineplus.mobile)
-
 
 Check out the source code [here](https://github.com/JaKXz/Jobmine-Plus)
 
